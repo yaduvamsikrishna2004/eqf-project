@@ -1,0 +1,8 @@
+.auth-card .hero-actions {
+  margin-top: 18px;
+}
+
+.auth-card p {
+  color: var(--text-soft);
+  line-height: 1.6;
+}

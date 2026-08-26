@@ -1,0 +1,10 @@
+.insight-list {
+  display: grid;
+  gap: 12px;
+  padding-left: 18px;
+}
+
+.chart-card canvas {
+  width: 100% !important;
+  max-height: 320px;
+}
